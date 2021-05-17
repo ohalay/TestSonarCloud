@@ -1,5 +1,6 @@
 ## Test SonarCloud
 [![Build](https://github.com/ohalay/TestSonarCloud/actions/workflows/build.yml/badge.svg)](https://github.com/ohalay/TestSonarCloud/actions/workflows/build.yml)
+[![CodeQL](https://github.com/ohalay/TestSonarCloud/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/ohalay/TestSonarCloud/actions/workflows/codeql-analysis.yml)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=ohalay_TestSonarCloud&metric=bugs)](https://sonarcloud.io/dashboard?id=ohalay_TestSonarCloud)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=ohalay_TestSonarCloud&metric=code_smells)](https://sonarcloud.io/dashboard?id=ohalay_TestSonarCloud)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=ohalay_TestSonarCloud&metric=coverage)](https://sonarcloud.io/dashboard?id=ohalay_TestSonarCloud)
