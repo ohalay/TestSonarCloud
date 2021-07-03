@@ -1,15 +1,16 @@
 ## Test SonarCloud
-
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Divco_divco-backend&metric=bugs&token=e7f930f460e60ade194caff978d1ef249c5fb9d2)](https://sonarcloud.io/dashboard?id=Divco_divco-backend)
-[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=Divco_divco-backend&metric=code_smells&token=e7f930f460e60ade194caff978d1ef249c5fb9d2)](https://sonarcloud.io/dashboard?id=Divco_divco-backend)
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=Divco_divco-backend&metric=coverage&token=e7f930f460e60ade194caff978d1ef249c5fb9d2)](https://sonarcloud.io/dashboard?id=Divco_divco-backend)
-[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=Divco_divco-backend&metric=duplicated_lines_density&token=e7f930f460e60ade194caff978d1ef249c5fb9d2)](https://sonarcloud.io/dashboard?id=Divco_divco-backend)
-[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=Divco_divco-backend&metric=ncloc&token=e7f930f460e60ade194caff978d1ef249c5fb9d2)](https://sonarcloud.io/dashboard?id=Divco_divco-backend)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Divco_divco-backend&metric=sqale_rating&token=e7f930f460e60ade194caff978d1ef249c5fb9d2)](https://sonarcloud.io/dashboard?id=Divco_divco-backend)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Divco_divco-backend&metric=alert_status&token=e7f930f460e60ade194caff978d1ef249c5fb9d2)](https://sonarcloud.io/dashboard?id=Divco_divco-backend)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=Divco_divco-backend&metric=reliability_rating&token=e7f930f460e60ade194caff978d1ef249c5fb9d2)](https://sonarcloud.io/dashboard?id=Divco_divco-backend)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Divco_divco-backend&metric=security_rating&token=e7f930f460e60ade194caff978d1ef249c5fb9d2)](https://sonarcloud.io/dashboard?id=Divco_divco-backend)
-[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=Divco_divco-backend&metric=sqale_index&token=e7f930f460e60ade194caff978d1ef249c5fb9d2)](https://sonarcloud.io/dashboard?id=Divco_divco-backend)
-[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Divco_divco-backend&metric=vulnerabilities&token=e7f930f460e60ade194caff978d1ef249c5fb9d2)](https://sonarcloud.io/dashboard?id=Divco_divco-backend)
+[![Build](https://github.com/ohalay/TestSonarCloud/actions/workflows/build.yml/badge.svg)](https://github.com/ohalay/TestSonarCloud/actions/workflows/build.yml)
+[![CodeQL](https://github.com/ohalay/TestSonarCloud/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/ohalay/TestSonarCloud/actions/workflows/codeql-analysis.yml)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=ohalay_TestSonarCloud&metric=bugs)](https://sonarcloud.io/dashboard?id=ohalay_TestSonarCloud)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=ohalay_TestSonarCloud&metric=code_smells)](https://sonarcloud.io/dashboard?id=ohalay_TestSonarCloud)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=ohalay_TestSonarCloud&metric=coverage)](https://sonarcloud.io/dashboard?id=ohalay_TestSonarCloud)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=ohalay_TestSonarCloud&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=ohalay_TestSonarCloud)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=ohalay_TestSonarCloud&metric=ncloc)](https://sonarcloud.io/dashboard?id=ohalay_TestSonarCloud)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=ohalay_TestSonarCloud&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=ohalay_TestSonarCloud)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ohalay_TestSonarCloud&metric=alert_status)](https://sonarcloud.io/dashboard?id=ohalay_TestSonarCloud)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=ohalay_TestSonarCloud&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=ohalay_TestSonarCloud)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=ohalay_TestSonarCloud&metric=security_rating)](https://sonarcloud.io/dashboard?id=ohalay_TestSonarCloud)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=ohalay_TestSonarCloud&metric=sqale_index)](https://sonarcloud.io/dashboard?id=ohalay_TestSonarCloud)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=ohalay_TestSonarCloud&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=ohalay_TestSonarCloud)
 
 Simple API porject to test Github Action with SonarCloud
