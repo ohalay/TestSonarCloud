@@ -1,4 +1,3 @@
-using System;
 using TestSonarCloud.Controllers;
 using Xunit;
 
@@ -7,7 +6,7 @@ namespace TestSonarCloud.Tests
     public class ControllerTests
     {
         [Fact]
-        public void Test1()
+        public void Test()
         {
             var sut = new WeatherForecastController(null);
 
